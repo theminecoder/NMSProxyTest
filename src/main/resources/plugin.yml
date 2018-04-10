@@ -1,0 +1,6 @@
+name: NMSProxyTest
+version: ${project.version}
+main: me.theminecoder.minecraft.test.nmsproxytest.NMSProxyTest
+depend: [NMSProxyPlugin]
+commands:
+  debug: {}
